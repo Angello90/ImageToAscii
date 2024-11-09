@@ -8,7 +8,7 @@ from PIL import Image
 def main(image_path, scale, output_file):
         image = Image.open(image_path)
         image = resize_image(image, scale)
-        image = grayify(image)
+        image = to_grayscale(image)
         
         ascii_str = pixels_to_ascii(image)
         img_width = image.width

@@ -9,7 +9,7 @@ def resize_image(image, scale=100):
     resized_image = image.resize((new_width, new_height))
     return resized_image
 
-def grayify(image):
+def to_grayscale(image):
         grayscale_image = image.convert("L")
         return grayscale_image
 
