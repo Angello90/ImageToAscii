@@ -6,7 +6,7 @@ Ce projet permet de convertir n'importe quelle image en art ASCII. Il redimensio
 ## Installation
 1. Clonez le dépôt :
     ```sh
-    git clone <URL_DU_DEPOT>
+    git clone https://github.com/Angello90/ImageToAscii.git
     ```
 2. Accédez au répertoire du projet :
     ```sh
@@ -18,7 +18,7 @@ Ce projet permet de convertir n'importe quelle image en art ASCII. Il redimensio
     ```
 4. Installation des dépendances nécessaires, utilisez `pip` :
     ```sh
-        pip install -r requirements.txt
+    pip install -r requirements.txt
     ```
 ## Utilisation
 ```sh
