@@ -22,5 +22,5 @@ Ce projet permet de convertir n'importe quelle image en art ASCII. Il redimensio
     ```
 ## Utilisation
 ```sh
-    python main.py -i <IMAGE> -o <OUTPUT> -s <SCALE>  
+python main.py -i <IMAGE> -o <OUTPUT> -s <SCALE>  
 ```
