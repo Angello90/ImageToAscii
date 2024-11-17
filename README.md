@@ -10,7 +10,7 @@ Ce projet permet de convertir n'importe quelle image en art ASCII. Il redimensio
     ```
 2. Accédez au répertoire du projet :
     ```sh
-    cd toAscii
+    cd ImageToAscii
     ```
 3. Exécutez le script principal :
     ```sh
